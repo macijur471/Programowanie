@@ -1,0 +1,16 @@
+﻿  Funkcje.cpp
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,47): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,58): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(492,69): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,47): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,58): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,69): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,100): warning C4309: 'initializing': truncation of constant value
+C:\Users\macie\Desktop\Visual Studio\Statki\Funkcje.cpp(552,110): warning C4309: 'initializing': truncation of constant value
+  Statki.vcxproj -> C:\Users\macie\Desktop\Visual Studio\Statki\Debug\Statki.exe
